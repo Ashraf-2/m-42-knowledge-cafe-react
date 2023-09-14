@@ -1,53 +1,53 @@
 [
     {
       "id": 1,
-      "cover": "https://example.com/cover1.jpg",
-      "title": "Lorem Ipsum Dolor Sit Amet",
+      "img": "https://i.ibb.co/3mtXbZx/boy1.png",
+      "title": "Smells of flower gives you mental reshness",
       "author": "John Doe",
-      "img": "https://i.ibb.co/qdRkT0P/ranurte-LB3w-Sllh-Bq0-unsplash.jpg",
+      "cover": "https://i.ibb.co/qdRkT0P/ranurte-LB3w-Sllh-Bq0-unsplash.jpg",
       "posted_date": "2023-09-13",
       "reading_time": "10 min",
-      "hashtags": ["flower", "mindfulness", "beauty"]
+      "hashtags": ["flower ", "mindfulness ", "beauty"]
     },
     {
       "id": 2,
-      "cover": "https://example.com/cover2.jpg",
-      "title": "Consectetur Adipiscing Elit",
-      "author": "Jane Smith",
-      "img": "https://i.ibb.co/7bCST6C/drone-spraying-fertilizer-vegetable-green-plants-agriculture-technology-farm-automation.jpg",
+      "img": "https://i.ibb.co/M199JWY/boy2.jpg",
+      "title": "Drone are working as men's replacement",
+      "author": "Jim Smith",
+      "cover": "https://i.ibb.co/7bCST6C/drone-spraying-fertilizer-vegetable-green-plants-agriculture-technology-farm-automation.jpg",
       "posted_date": "2023-09-12",
       "reading_time": "8 min",
-      "hashtags": ["technology", "aerodynamics"]
+      "hashtags": ["technology ", "aerodynamics"]
     },
     {
       "id": 3,
-      "cover": "https://example.com/cover3.jpg",
-      "title": "Sed Do Eiusmod Tempor Incididunt",
-      "author": "Robert Johnson",
-      "img": "https://i.ibb.co/pbmx8G5/jess-bailey-l3-N9-Q27z-ULw-unsplash.jpg",
+      "img": "https://i.ibb.co/VDfR86X/girl1.jpg",
+      "title": "From Pencil to Perfection: Unveiling the Artistic Beauty of Drawing",
+      "author": "Emily Johnson",
+      "cover": "https://i.ibb.co/pbmx8G5/jess-bailey-l3-N9-Q27z-ULw-unsplash.jpg",
       "posted_date": "2023-09-11",
       "reading_time": "15 min",
-      "hashtags": ["art", "beauty"]
+      "hashtags": ["art ", "beauty"]
     },
     {
       "id": 4,
-      "cover": "https://example.com/cover4.jpg",
-      "title": "Lorem Ipsum Dolor Sit Amet",
-      "author": "Emily White",
-      "img": "https://i.ibb.co/Ycd31q4/sharissa-johnson-Yis49-IPl-Fws-unsplash.jpg",
+      "img": "https://i.ibb.co/HLSYwjR/girl2.jpg",
+      "title": "Floral Elegance: A Canvas of Nature's Beauty",
+      "author": "Browny Whitengle",
+      "cover": "https://i.ibb.co/Ycd31q4/sharissa-johnson-Yis49-IPl-Fws-unsplash.jpg",
       "posted_date": "2023-09-10",
       "reading_time": "12 min",
-      "hashtags": ["art", "flower"]
+      "hashtags": ["nature ", "flower"]
     },
     {
       "id": 5,
-      "cover": "https://example.com/cover5.jpg",
-      "title": "Ut Enim Ad Minim Veniam",
-      "author": "David Brown",
-      "img": "https://i.ibb.co/bLgXcZj/culture-background-morocco-arabic-moroccan.jpg",
+      "img": "https://i.ibb.co/VDfR86X/girl1.jpg",
+      "title": "Majestic Masterpieces: The Aesthetic Marvels of Islamic Architecture Explored",
+      "author": "Rita Carlotty",
+      "cover": "https://i.ibb.co/bLgXcZj/culture-background-morocco-arabic-moroccan.jpg",
       "posted_date": "2023-09-09",
       "reading_time": "7 min",
-      "hashtags": ["islamic", "architecture"]
+      "hashtags": ["islamic ", "architecture"]
     }
   ]
   
